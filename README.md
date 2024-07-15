@@ -7,7 +7,7 @@ These files were taken from a larger open-access (CCO license) dataset on the Op
 To reduce file size, the files have been reduced in length (first 3 minutes of the recording), downsampled from 1 KHz to 500 Hz, and reduced from a 128 to 64 channel montage. No other pre-processing has been applied. 
 
 
-**Below is a brief example of settings that might be used to clean the files using the RELAX-Jr GUI: **
+*Below is a brief example of settings that might be used to clean the files using the RELAX-Jr GUI:*
 
 <img width="1373" alt="relax_jr_example" src="https://github.com/user-attachments/assets/61425845-6eff-48be-8812-4d558af2cf7f">
 
