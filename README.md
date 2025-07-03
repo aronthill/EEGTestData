@@ -13,7 +13,7 @@ To reduce file size, the files have been reduced in length (first 3 minutes of t
 
 
 
-Here is an example of basic data inspection using EEGLAB for one of the raw (un-processed) files.
+Here is an example of basic data inspection using EEGLAB for one of the raw (i.e., un-processed) files.
 
 <img width="800" alt="Screenshot 2024-07-15 at 1 14 58 PM" src="https://github.com/user-attachments/assets/68e19314-c175-4418-8c84-d95bc902732e">
 
